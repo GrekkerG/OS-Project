@@ -1,8 +1,8 @@
 # third-party
-from loguru import logger
-
 # built in
 from argparse import ArgumentParser
+
+from loguru import logger
 
 
 def parse_args() -> tuple:
